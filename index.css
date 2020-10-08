@@ -1,0 +1,16 @@
+.body {
+    height: 450px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-end;
+}
+
+.container {
+    outline-color: red;
+}
+
+.image {
+    height: 20%;
+    width: 20%;
+}
